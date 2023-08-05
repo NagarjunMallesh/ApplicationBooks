@@ -4,6 +4,10 @@
 This is basic Books Management Application built using spring boot and MySQL. The application is deployed in Docker.
 We can run and execute the application directly as the container. The API documentation is implemented using Swagger UI.
 
+## Screenshots
+  The screenshot depicts API Documentation using SwaggerUI 
+  <img width="1501" alt="image" src="https://github.com/NagarjunMallesh/ApplicationBooks/assets/34504820/2e5f876f-5e59-4a8f-a98b-8c5ee80363a6">
+
 
 ## Execution 
 - Install docker
